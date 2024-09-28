@@ -1,4 +1,7 @@
 flappypy.sublime-project
 flappypy.sublime-workspace
+highscore
+FlappyPy.spec
 __pycache__/
 venv/
+build/
